@@ -1,6 +1,6 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw5OWNjZzZzZ2c0YTlmYnVwcHhwa2x3ZHliNWJnbnp5MHo5MHdtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
      alt="Cool GIF" 
-     style="width:100vw; height:4%; object-fit:cover;" />
+     style="width:80vh; height:4%; object-fit:cover;" />
 
 # 💫 About Me:
 🔭 I’m currently working on improving my programming skills • 👯 I’m looking to collaborate on .NET, C#, Node.js, Express, React, MongoDB (Mongoose) and Django projects • 🤝 I’m looking for help with advanced backend and full-stack concepts • 🌱 I’m currently learning C#, OOP, .NET Web Development, Node.js, Express, React, MongoDB (Mongoose) and Django • 💬 Ask me about basic programming, C#, backend development and problem-solving • ⚡ Fun fact: I love turning complex problems into simple solutions.
